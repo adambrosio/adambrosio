@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything I can get my hands on
-- 📫 How to reach me: 
+- 📫 How to reach me -  
     Email: adambrosio20@gmail.com
     LinkedIn: https://www.linkedin.com/in/andrew-d-ambrosio-35617ba7/
 
