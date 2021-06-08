@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew D'Ambrosio (@adambrosio)
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Cybersecurity and Front-End Web Development
+- 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on anything I can get my hands on
 - 📫 How to reach me -  
     Email: adambrosio20@gmail.com
